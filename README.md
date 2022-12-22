@@ -49,4 +49,5 @@ docker run --link=mysql8019:mysql8019 -p 8888:8888 bubble_app
 docker exec -it mysql8019 bash
 ```
 
-
+运行截图：
+![bubble](https://fanwb.oss-cn-beijing.aliyuncs.com/img/bubble.png)
