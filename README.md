@@ -41,3 +41,5 @@ docker build . -t bubble_app
 docker run --link=mysql8019:mysql8019 -p 8888:8888 bubble_app
 ```
 
+部署完成后可通过`localhost:8888`访问服务。
+
