@@ -3,7 +3,7 @@
 ## 说明
 
 [bubble](https://github.com/fan-wb/bubble.git) 是使用 go 语言的 gin 框架编写的一个简单的 Web 程序。
-前端部分使用 vue2.0 完成，仓库地址：[bubble_frontend](git@github.com:fan-wb/bubble_frontend.git)
+前端部分使用 vue2.0 完成，仓库地址：[bubble_frontend](https://github.com/fan-wb/bubble_frontend.git)
 
 这个仓库是使用 Docker 部署 bubble 的示例。
 
