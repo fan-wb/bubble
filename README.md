@@ -44,7 +44,7 @@ docker run --link=mysql8019:mysql8019 -p 8888:8888 bubble_app
 ## 使用
 部署完成后可通过`localhost:8888`访问服务。
 
-使用以下命令可进入数据库查看详情
+使用以下命令可进入数据库查看
 ```bash
 docker exec -it mysql8019 bash
 ```
